@@ -3,6 +3,10 @@
 
 <h1 align="center"> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"> jumang repositories <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"></h1>
 
+<p align="center">
+<a href="https://activity-graph.herokuapp.com/graph?username=jumang4423&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"><img alt="Ryihan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jumang4423&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</p>
+
 <!-- ![something](https://metrics.lecoq.io/jumang4423) -->
 <!-- <h1 align="center"> <img src="https://metrics.lecoq.io/jumang4423"></h1> -->
 
