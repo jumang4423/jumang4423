@@ -8,7 +8,7 @@
 
 ![psyche](_design/animal.png)
 
-<!-- ![psyche](_design/psy.gif) -->
+![psyche](_design/psy.gif)
 
 <!-- ![something](https://metrics.lecoq.io/jumang4423) -->
 <!-- <h1 align="center"> <img src="https://metrics.lecoq.io/jumang4423"></h1> -->
