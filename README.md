@@ -6,7 +6,7 @@
 <img alt="jumang Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jumang4423&bg_color=444444&color=BBBBBB&line=999999&point=FFFFFF&hide_border=true"/>
 </p> -->
 
-![psyche](_design/psy.gif)
+![psyche](_design/animal.png)
 
 
 <!-- ![something](https://metrics.lecoq.io/jumang4423)
