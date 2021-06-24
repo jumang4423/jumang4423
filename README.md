@@ -16,7 +16,7 @@
 const jumang = {
     pronouns: "he" | "him",
     born: "28/12/2000",
-    askMeAbout: ["music", "food"]
+    askMeAbout: ["music", "food"],
     code: ["rust", "go", "react.js"],
     technologies: {
         frontend: ["react.js"],
