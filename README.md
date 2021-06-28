@@ -27,5 +27,16 @@ const jumang = {
 };
 ```
 
+# OSS
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jumang4423&repo=jumang-potaru)](https://github.com/jumang4423/jumang-potaru)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jumang4423&repo=nysh)](https://github.com/jumang4423/nysh)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jumang4423&repo=jobgosh)](https://github.com/jumang4423/jobgosh)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jumang4423&repo=gpshr)](https://github.com/jumang4423/gpshr)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jumang4423&repo=jungle98)](https://github.com/jumang4423/jungle98)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jumang4423&repo=hentai_dream_95)](https://github.com/jumang4423/hentai_dream_95)
+
 <!-- ### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"> language i use
 - dead -->
