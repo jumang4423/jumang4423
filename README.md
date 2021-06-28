@@ -27,7 +27,7 @@ const jumang = {
 };
 ```
 
-# OSS
+# 🥺OSS
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jumang4423&repo=jumang-potaru)](https://github.com/jumang4423/jumang-potaru)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jumang4423&repo=nysh)](https://github.com/jumang4423/nysh)
