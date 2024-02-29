@@ -1,1 +1,1 @@
-[![jumango skills](https://skillicons.dev/icons?i=ableton,actix,clojure,emacs,linux,lua,pytorch,rust,solidity,ts,wasm,zig)](https://skillicons.dev)
+![](https://media1.tenor.com/m/YcV9ty0ma0kAAAAd/bingus-dies-from-cringe.gif)
